@@ -1,0 +1,53 @@
+.tarjeta{
+
+    width: 50%;
+    min-height: 4rem;
+    margin: 0 auto;
+    box-shadow: 4px 5px 20px;
+    padding: 20px;
+    border: 1px solid lightsteelblue;
+    border-radius: 16px;
+
+  }
+
+  /* colores  */
+
+  .verde {
+    color: yellowgreen;
+  }
+  
+  .rojo {
+    color: red;
+  }
+
+  /* fuentes de texto */
+
+  .font-pequeña{
+    font-size: 8px;
+  }
+
+  .font-mediana{
+    font-size: 16px;
+  }
+
+  .font-grande{
+    font-size: 32px;
+  }
+
+  .font-muy-grande{
+    font-size: 64px;
+  }
+
+  /* imagenes */
+
+  .imagen{
+    width: 250px;
+    height: auto;
+    border-radius: 18px;
+    box-shadow: 5px 1px 15px;
+  }
+
+  /* titulos */
+  h2{
+    color: magenta;
+  }
